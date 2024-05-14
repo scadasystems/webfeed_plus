@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   xml: ^6.3.0
-  intl: ^0.18.1
+  intl: 
 
 dev_dependencies:
   flutter_lints: ^2.0.2
